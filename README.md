@@ -19,7 +19,7 @@ This project is a Tableau only explanatory data analysis as of Udacity's busines
 ## How to Use
 1. Simply open/download the file
 2. Read each line and click the corressponding tableau links underneath to be transported to where each question was answered.
-3. *INTERRACT WITH AS MUCH FILTERS AS YOU LIKE*, to explore the data more
+3. *INTERRACT WITH AS MANY FILTERS AS **YOU** LIKE*, to explore the data more
 
 
 ## Licensing 
